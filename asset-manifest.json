@@ -1,16 +1,13 @@
 {
-  "files": {
-    "main.css": "/react-gitpage/static/css/main.073c9b0a.css",
-    "main.js": "/react-gitpage/static/js/main.8360b615.js",
-    "static/js/787.80a189e6.chunk.js": "/react-gitpage/static/js/787.80a189e6.chunk.js",
-    "static/media/logo.svg": "/react-gitpage/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/react-gitpage/index.html",
-    "main.073c9b0a.css.map": "/react-gitpage/static/css/main.073c9b0a.css.map",
-    "main.8360b615.js.map": "/react-gitpage/static/js/main.8360b615.js.map",
-    "787.80a189e6.chunk.js.map": "/react-gitpage/static/js/787.80a189e6.chunk.js.map"
-  },
-  "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.8360b615.js"
-  ]
+  "main.css": "/react-gitpage/static/css/main.7aaab21a.chunk.css",
+  "main.js": "/react-gitpage/static/js/main.a818ab06.chunk.js",
+  "main.js.map": "/react-gitpage/static/js/main.a818ab06.chunk.js.map",
+  "runtime~main.js": "/react-gitpage/static/js/runtime~main.9e45204d.js",
+  "runtime~main.js.map": "/react-gitpage/static/js/runtime~main.9e45204d.js.map",
+  "static/js/2.a20e9c33.chunk.js": "/react-gitpage/static/js/2.a20e9c33.chunk.js",
+  "static/js/2.a20e9c33.chunk.js.map": "/react-gitpage/static/js/2.a20e9c33.chunk.js.map",
+  "index.html": "/react-gitpage/index.html",
+  "precache-manifest.3d0eafaa0ffc7073baa39f0b81848f92.js": "/react-gitpage/precache-manifest.3d0eafaa0ffc7073baa39f0b81848f92.js",
+  "service-worker.js": "/react-gitpage/service-worker.js",
+  "static/css/main.7aaab21a.chunk.css.map": "/react-gitpage/static/css/main.7aaab21a.chunk.css.map"
 }
