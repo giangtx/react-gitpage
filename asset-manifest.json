@@ -1,13 +1,13 @@
 {
   "main.css": "/react-gitpage/static/css/main.7aaab21a.chunk.css",
-  "main.js": "/react-gitpage/static/js/main.a818ab06.chunk.js",
-  "main.js.map": "/react-gitpage/static/js/main.a818ab06.chunk.js.map",
+  "main.js": "/react-gitpage/static/js/main.f2beb423.chunk.js",
+  "main.js.map": "/react-gitpage/static/js/main.f2beb423.chunk.js.map",
   "runtime~main.js": "/react-gitpage/static/js/runtime~main.9e45204d.js",
   "runtime~main.js.map": "/react-gitpage/static/js/runtime~main.9e45204d.js.map",
-  "static/js/2.a20e9c33.chunk.js": "/react-gitpage/static/js/2.a20e9c33.chunk.js",
-  "static/js/2.a20e9c33.chunk.js.map": "/react-gitpage/static/js/2.a20e9c33.chunk.js.map",
+  "static/js/2.3cb5920b.chunk.js": "/react-gitpage/static/js/2.3cb5920b.chunk.js",
+  "static/js/2.3cb5920b.chunk.js.map": "/react-gitpage/static/js/2.3cb5920b.chunk.js.map",
   "index.html": "/react-gitpage/index.html",
-  "precache-manifest.3d0eafaa0ffc7073baa39f0b81848f92.js": "/react-gitpage/precache-manifest.3d0eafaa0ffc7073baa39f0b81848f92.js",
+  "precache-manifest.893745bb293ad104e2703e8b7a5ddb11.js": "/react-gitpage/precache-manifest.893745bb293ad104e2703e8b7a5ddb11.js",
   "service-worker.js": "/react-gitpage/service-worker.js",
   "static/css/main.7aaab21a.chunk.css.map": "/react-gitpage/static/css/main.7aaab21a.chunk.css.map"
 }
